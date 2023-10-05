@@ -1,4 +1,4 @@
-### 👋Hi there, My name is Tumelo Kelello Seripe!
+### 👋Hi there, My name is Kelello Seripe!
 
 <a href="https://github.com/Kelello-7206" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 6px;" />
@@ -9,7 +9,7 @@
 
 ## I am an aspiring Backend Developer!
 
-I'm a passionate aspiring backend developer, driven to enhance user experiences on websites. Through my coding journey, I strive to improve my skills daily and share my progress on GitHub. In my projects, I focus on efficient backend solutions, working with frameworks like React and Next.js to handle data, API endpoints, and databases. I'm committed to staying updated on the latest trends and best practices, aiming for code that's both efficient and easy to maintain.
+As someone striving to become a backend developer, my motivation lies in enhancing user experiences on websites through efficient coding practices. I am dedicated to continuously improve my skills on a daily base. In my projects, I showcase backend development and optimizing databases and API endpoints, utilizing frameworks like React and Next.js. Staying informed about the latest industry trends and best practices is essential to me, ensuring that my code is both efficient and maintainable. Collaborating with fellow developers and looking to contribute to open-source projects excites me, and I'm eager to explore and implement secure coding practices as well.
 
 <br/>  
 
@@ -24,8 +24,6 @@ I'm a passionate aspiring backend developer, driven to enhance user experiences 
 
 - 💬 Ask me about HTML, CSS and JavaScript.
 
-- 😄 I prefered to be called Kelello.
-  
 - ⚡ Fun fact: I am trying to learn chess
 
 <br/>  
