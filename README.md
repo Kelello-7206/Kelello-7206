@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 6px;" />
 </a>
 
-## I am an aspiring Backend Developer!
+## Aspiring Backend Developer!
 
 As someone striving to become a backend developer, my motivation lies in enhancing user experiences on websites through efficient coding practices. I am dedicated to continuously improve my skills on a daily base. In my projects, I showcase backend development and optimizing databases and API endpoints, utilizing frameworks like React and Next.js. Staying informed about the latest industry trends and best practices is essential to me, ensuring that my code is both efficient and maintainable. Collaborating with fellow developers and looking to contribute to open-source projects excites me, and I'm eager to explore and implement secure coding practices as well.
 
