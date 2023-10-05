@@ -9,20 +9,16 @@
 
 ## I am an aspiring Backend Developer!
 
-I am thriving aspiring backend developer, I'm drawn to the backend that of makes websites more interactive for the user experience. As an aspiring backend developer with passion for 
-creating outstanding interactive user experiences websites, by improving my skills daily in my coding journey. My GitHub repositories that aim to be efficient and solve backend solutions. 
-
-In my projects, you will find websites that  handle data, API endpoints, databases which are constructed with various frameworks such as React, Next.js, etc. I am always trying to
-stay updated on the latest trends and best practices in backend development, ensuring that my code is  efficient and maintainable.
+I'm a passionate aspiring backend developer, driven to enhance user experiences on websites. Through my coding journey, I strive to improve my skills daily and share my progress on GitHub. In my projects, I focus on efficient backend solutions, working with frameworks like React and Next.js to handle data, API endpoints, and databases. I'm committed to staying updated on the latest trends and best practices, aiming for code that's both efficient and easy to maintain.
 
 <br/>  
 
 ## About Me   
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Currently, I am working on completing my Software development with CodeSpace at the Bafokeng CodeLab.
+- 🔭 Currently, I am working on completing my Software development with CodeSpace Academy at the Bafokeng CodeLab.
   
-- 🌱 Currently I am learning Udemy online course about Next.js.
+- 🌱 Currently I am learning Next.js.
   
 - 👯 I’m looking forward to collaborating on creating/improving to backend projects
 
