@@ -9,7 +9,7 @@
 
 ## Aspiring Backend Developer!
 
-As someone striving to become a backend developer, my motivation lies in enhancing user experiences on websites through efficient coding practices. I am dedicated to continuously improve my skills on a daily base. In my projects, I showcase backend development and optimizing databases and API endpoints, utilizing frameworks like React and Next.js. Staying informed about the latest industry trends and best practices is essential to me, ensuring that my code is both efficient and maintainable. Collaborating with fellow developers and looking to contribute to open-source projects excites me, and I'm eager to explore and implement secure coding practices as well.
+As someone striving to become a backend developer, where my motivation lies in enhancing user experiences on websites through efficient coding practices. I am dedicated to continuously improve my skills on a daily basis. In my projects, I showcase backend development by optimizing databases, API endpoints and utilizing frameworks like React, Next.js, etc. Staying informed about the latest industry trends and best practices is essential to me, ensuring that my code is both efficient and maintainable. Collaborating with fellow developers and looking to contribute to open-source projects excites me, and I'm eager to explore and learn on my coding joureny.
 
 <br/>  
 
